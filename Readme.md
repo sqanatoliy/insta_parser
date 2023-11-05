@@ -1,5 +1,12 @@
 # Follower Parser using Playwright
 
+
+----
+*Pay attention! You may have to run the script in HEADED mode*
+----
+
+
+
 If you, like me, want to have a convenient table listing your followers, try using a script like mine. 
 With the Playwright library, you can easily fetch the list of followers and save it in CSV format for effortless viewing.
 
